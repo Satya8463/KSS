@@ -2,7 +2,7 @@
 <html lang="en_us">
 
 <head>
-<font color="red"><h1 align="center">Welcome to Knowledge Sharing System</h1></font>
+<font color="red"><h1 align="center">Welcome to Knowledge Sharing System Developed</h1></font>
 <meta charset="UTF-8">
 <title>Knowledge Sharing System</title>
 <style>
